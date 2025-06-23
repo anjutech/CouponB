@@ -1,0 +1,800 @@
+[2025-06-18 10:21:07] INFO: User found: ID 9718286467
+[2025-06-18 10:45:07] ERROR: Failed to fetch user ID 9718286467 - user is not defined
+[2025-06-18 10:46:19] ERROR: Failed to fetch user ID 9718286467 - user is not defined
+[2025-06-18 10:49:25] ERROR: Failed to fetch user ID 9718286467 - user is not defined
+[2025-06-18 13:17:44] INFO: New Product Created Phones
+[2025-06-18 14:25:14] INFO: POST /api/products/create_coupon
+[2025-06-18 14:32:32] INFO: 50 Coupons are generated of product Smartphone
+[2025-06-18 14:34:25] INFO: 2 Coupons are generated of product Smartphone
+[2025-06-18 15:21:54] INFO: POST /api/payment/payment_by_bank
+[2025-06-18 15:50:30] INFO: GET /api/coupon/create_scan_coupon
+[2025-06-18 15:54:37] INFO: 2 Coupons are generated of product Smartphone
+[2025-06-18 16:07:40] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-18 16:07:48] INFO: GET /api/products/get_product/TY6XMY-J40
+[2025-06-18 16:09:24] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-18 16:41:23] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-18 17:19:22] INFO: POST /api/coupon/create_coupon
+[2025-06-18 17:19:22] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-18 17:27:43] INFO: POST /api/coupon/create_coupon
+[2025-06-18 17:27:43] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 09:57:15] INFO: POST /api/coupon/create_coupon
+[2025-06-19 09:57:15] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 09:57:28] INFO: POST /api/coupon/create_coupon
+[2025-06-19 09:58:00] INFO: POST /api/coupon/create_coupon
+[2025-06-19 09:58:00] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 09:58:23] INFO: GET /api/coupon/get_product/OSPIW8CYD8
+[2025-06-19 09:58:39] INFO: GET /api/coupon/coupons
+[2025-06-19 09:59:22] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 09:59:33] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:00:38] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:02:06] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:03:33] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:04:21] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:06:06] INFO: POST /api/payment/payment
+[2025-06-19 10:06:31] INFO: POST /api/products
+[2025-06-19 10:06:31] INFO: New Product Created Phones
+[2025-06-19 10:06:45] INFO: GET /api/products
+[2025-06-19 10:06:52] INFO: GET /api/products/1
+[2025-06-19 10:07:00] INFO: GET /api/products
+[2025-06-19 10:07:05] INFO: GET /api/products/1
+[2025-06-19 10:08:31] INFO: GET /api/products/1
+[2025-06-19 10:09:05] INFO: PUT /api/products/1
+[2025-06-19 10:09:18] INFO: PUT /api/products/update
+[2025-06-19 10:10:35] INFO: PUT /api/products/update
+[2025-06-19 10:10:35] INFO: Product Updated Phones
+[2025-06-19 10:11:05] INFO: DELETE /api/products/1
+[2025-06-19 10:11:32] INFO: DELETE /api/products/1
+[2025-06-19 10:12:44] INFO: DELETE /api/products/1
+[2025-06-19 10:12:54] INFO: GET /api/products
+[2025-06-19 10:13:41] INFO: GET /api/products
+[2025-06-19 10:23:08] INFO: POST /api/payment/payment
+[2025-06-19 10:25:26] INFO: POST /api/payment/payment
+[2025-06-19 10:25:33] INFO: POST /api/payment/payment
+[2025-06-19 10:25:40] INFO: POST /api/payment/payment
+[2025-06-19 10:37:21] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:37:49] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:38:13] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 10:39:24] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 11:56:46] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 11:56:46] ERROR: Error creating coupon scan:
+[2025-06-19 11:59:17] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 11:59:17] ERROR: Error creating coupon scan:
+[2025-06-19 12:01:18] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:01:18] ERROR: Error creating coupon scan:
+[2025-06-19 12:03:59] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:04:09] INFO: GET /api/coupon/coupons
+[2025-06-19 12:04:18] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:04:18] ERROR: Error creating coupons:
+[2025-06-19 12:04:43] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:04:43] ERROR: Error creating coupons:
+[2025-06-19 12:06:50] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:06:50] ERROR: Error creating coupons:
+[2025-06-19 12:06:53] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:06:53] ERROR: Error creating coupons:
+[2025-06-19 12:08:03] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:08:03] ERROR: Error creating coupons:
+[2025-06-19 12:08:25] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:08:25] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 12:08:25] ERROR: Error creating coupons:
+[2025-06-19 12:10:25] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:10:25] ERROR: Error creating coupons:
+[2025-06-19 12:11:37] INFO: POST /api/products
+[2025-06-19 12:11:37] INFO: New Product Created Phones
+[2025-06-19 12:11:51] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:11:51] ERROR: Error creating coupons:
+[2025-06-19 12:12:25] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:12:26] ERROR: Error creating coupons:
+[2025-06-19 12:12:44] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:12:45] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 12:12:58] INFO: GET /api/coupon/get_product/EQDYHN3NUI
+[2025-06-19 12:13:37] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:14:04] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:14:44] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:14:44] ERROR: Error creating coupon scan:
+[2025-06-19 12:16:30] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:16:30] ERROR: Error creating coupon scan:
+[2025-06-19 12:16:33] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:16:33] ERROR: Error creating coupon scan:
+[2025-06-19 12:21:01] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:21:01] ERROR: Error creating coupon scan:
+[2025-06-19 12:21:23] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:21:23] ERROR: Error creating coupon scan:
+[2025-06-19 12:22:46] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:23:36] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:25:44] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:25:59] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:26:07] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:26:40] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:26:52] INFO: GET /api/coupon/coupons
+[2025-06-19 12:27:05] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:27:05] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 12:27:17] INFO: GET /api/coupon/coupons
+[2025-06-19 12:27:36] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:27:36] ERROR: Error creating coupon scan:
+[2025-06-19 12:28:13] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:28:13] INFO: Coupon scanned successfully
+[2025-06-19 12:28:28] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:28:32] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:29:02] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:29:23] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:29:26] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:29:41] INFO: GET /api/coupon/coupons
+[2025-06-19 12:29:43] INFO: GET /api/coupon/coupons
+[2025-06-19 12:29:45] INFO: GET /api/coupon/coupons
+[2025-06-19 12:30:14] INFO: GET /api/coupon/coupons
+[2025-06-19 12:30:25] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:30:25] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 12:30:30] INFO: GET /api/coupon/coupons
+[2025-06-19 12:30:46] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:30:46] ERROR: Error creating coupon scan:
+[2025-06-19 12:31:56] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:31:56] ERROR: Error creating coupon scan:
+[2025-06-19 12:32:09] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:32:09] ERROR: Error creating coupon scan:
+[2025-06-19 12:32:13] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:32:13] ERROR: Error creating coupon scan:
+[2025-06-19 12:35:31] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:35:31] ERROR: Error creating coupon scan:
+[2025-06-19 12:35:33] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:35:33] ERROR: Error creating coupon scan:
+[2025-06-19 12:36:08] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:39:07] INFO: GET /api/coupon/coupons
+[2025-06-19 12:39:12] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:39:12] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 12:39:18] INFO: GET /api/coupon/coupons
+[2025-06-19 12:39:36] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:39:36] INFO: Coupon scanned successfully
+[2025-06-19 12:39:43] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:40:42] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:40:44] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:41:04] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:41:04] ERROR: Error creating coupon scan:
+[2025-06-19 12:41:57] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 12:42:31] INFO: POST /api/payment/payment
+[2025-06-19 12:43:44] INFO: POST /api/payment/payment
+[2025-06-19 12:49:17] INFO: GET /api/products
+[2025-06-19 12:49:24] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:49:24] ERROR: Error creating coupons:
+[2025-06-19 12:50:03] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:50:03] ERROR: Error creating coupons:
+[2025-06-19 12:50:49] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:50:49] ERROR: Error creating coupons:
+[2025-06-19 12:51:33] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:51:36] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:51:52] INFO: POST /api/products
+[2025-06-19 12:51:52] INFO: New Product Created Phones
+[2025-06-19 12:51:58] INFO: POST /api/coupon/create_coupon
+[2025-06-19 12:51:58] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 12:52:05] INFO: GET /api/coupon/coupons
+[2025-06-19 13:16:08] INFO: GET /api/coupon/coupons
+[2025-06-19 13:16:32] INFO: GET /api/coupon/coupons
+[2025-06-19 13:16:43] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:16:43] ERROR: Error creating coupon scan:
+[2025-06-19 13:17:20] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:17:28] INFO: GET /api/coupon/coupons
+[2025-06-19 13:17:33] INFO: POST /api/coupon/create_coupon
+[2025-06-19 13:17:41] INFO: GET /api/products
+[2025-06-19 13:17:45] INFO: POST /api/products
+[2025-06-19 13:17:45] INFO: New Product Created Phones
+[2025-06-19 13:17:52] INFO: POST /api/coupon/create_coupon
+[2025-06-19 13:17:52] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 13:17:58] INFO: GET /api/coupon/coupons
+[2025-06-19 13:18:10] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:18:10] INFO: Coupon scanned successfully
+[2025-06-19 13:18:13] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:18:19] INFO: POST /api/coupon/create_coupon
+[2025-06-19 13:18:19] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 13:18:27] INFO: GET /api/coupon/coupons
+[2025-06-19 13:18:47] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:18:49] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:18:53] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:18:53] ERROR: Error creating coupon scan:
+[2025-06-19 13:21:19] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:21:19] ERROR: Error creating coupon scan:
+[2025-06-19 13:21:51] INFO: GET /api/coupon/coupons
+[2025-06-19 13:21:53] INFO: GET /api/coupon/coupons
+[2025-06-19 13:22:01] INFO: GET /api/coupon/coupons
+[2025-06-19 13:22:33] INFO: GET /api/coupon/coupons
+[2025-06-19 13:22:39] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:22:39] ERROR: Error creating coupon scan:
+[2025-06-19 13:55:32] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:55:32] ERROR: Error creating coupon scan:
+[2025-06-19 13:56:07] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:56:07] ERROR: Error creating coupon scan:
+[2025-06-19 13:56:29] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 13:56:29] ERROR: Error creating coupon scan:
+[2025-06-19 13:59:20] INFO: GET /api/coupon/coupons
+[2025-06-19 13:59:26] INFO: POST /api/products
+[2025-06-19 13:59:26] INFO: New Product Created Phones
+[2025-06-19 13:59:32] INFO: POST /api/coupon/create_coupon
+[2025-06-19 13:59:32] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 13:59:36] INFO: GET /api/coupon/coupons
+[2025-06-19 14:00:06] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:00:06] INFO: Coupon scanned successfully
+[2025-06-19 14:00:10] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:00:20] INFO: GET /api/coupon/coupons
+[2025-06-19 14:00:25] INFO: POST /api/coupon/create_coupon
+[2025-06-19 14:00:25] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 14:00:30] INFO: GET /api/coupon/coupons
+[2025-06-19 14:00:44] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:00:44] ERROR: Error creating coupon scan:
+[2025-06-19 14:12:01] INFO: GET /api/coupon/coupons
+[2025-06-19 14:12:09] INFO: POST /api/products
+[2025-06-19 14:12:09] INFO: New Product Created Phones
+[2025-06-19 14:12:13] INFO: POST /api/coupon/create_coupon
+[2025-06-19 14:12:13] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 14:12:18] INFO: GET /api/coupon/coupons
+[2025-06-19 14:12:30] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:12:30] INFO: Coupon scanned successfully
+[2025-06-19 14:12:30] ERROR: Error creating coupon scan:
+[2025-06-19 14:12:53] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:13:03] INFO: GET /api/coupon/coupons
+[2025-06-19 14:13:07] INFO: POST /api/coupon/create_coupon
+[2025-06-19 14:13:07] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 14:13:12] INFO: GET /api/coupon/coupons
+[2025-06-19 14:13:23] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:13:34] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:13:34] INFO: Coupon scanned successfully
+[2025-06-19 14:13:34] ERROR: Error creating coupon scan:
+[2025-06-19 14:14:44] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:14:51] INFO: GET /api/coupon/coupons
+[2025-06-19 14:14:56] INFO: POST /api/coupon/create_coupon
+[2025-06-19 14:14:56] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-19 14:15:03] INFO: GET /api/coupon/coupons
+[2025-06-19 14:15:15] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:15:22] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:15:22] INFO: Coupon scanned successfully
+[2025-06-19 14:15:46] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 14:15:49] INFO: POST /api/coupon/create_scan_coupon
+[2025-06-19 16:38:28] INFO: POST /api/users/register
+[2025-06-19 16:39:51] INFO: POST /api/users/login
+[2025-06-19 16:41:14] INFO: POST /api/users/login
+[2025-06-19 16:41:28] INFO: POST /api/users/login
+[2025-06-19 16:41:40] INFO: POST /api/users/login
+[2025-06-19 16:41:45] INFO: POST /api/users/login
+[2025-06-19 16:42:24] INFO: POST /api/users/login
+[2025-06-19 16:43:52] INFO: POST /api/users/login
+[2025-06-19 16:44:31] INFO: POST /api/users/login
+[2025-06-19 16:44:59] INFO: POST /api/users/login
+[2025-06-19 16:47:40] INFO: POST /api/users/login
+[2025-06-19 16:48:18] INFO: POST /api/users/login
+[2025-06-19 16:48:42] INFO: POST /api/users/login
+[2025-06-19 16:48:57] INFO: POST /api/users/login
+[2025-06-19 16:50:05] INFO: POST /api/users/generate_otp
+[2025-06-19 16:50:35] INFO: POST /api/products
+[2025-06-19 16:52:51] INFO: GET /api/coupon/coupons
+[2025-06-19 16:59:31] INFO: GET /api/coupon/coupons
+[2025-06-19 17:00:51] INFO: GET /api/coupon/coupons
+[2025-06-19 17:01:17] INFO: POST /api/users/login
+[2025-06-19 17:01:25] INFO: POST /api/users/register
+[2025-06-19 17:02:42] INFO: POST /api/users/register
+[2025-06-19 17:02:52] INFO: POST /api/users/register
+[2025-06-19 17:02:54] INFO: POST /api/users/register
+[2025-06-19 17:03:01] INFO: POST /api/users/register
+[2025-06-19 17:03:19] INFO: POST /api/users/login
+[2025-06-19 17:03:35] INFO: POST /api/users/register
+[2025-06-19 17:03:42] INFO: POST /api/users/login
+[2025-06-19 17:03:51] INFO: GET /api/users
+[2025-06-19 17:03:58] INFO: POST /api/users/login
+[2025-06-19 17:05:16] INFO: GET /api/users
+[2025-06-19 17:05:19] INFO: GET /api/users
+[2025-06-19 17:05:31] INFO: POST /api/users/login
+[2025-06-19 17:05:44] INFO: GET /api/users
+[2025-06-19 17:06:29] INFO: GET /api/users
+[2025-06-19 17:08:04] INFO: GET /api/users
+[2025-06-19 17:08:16] INFO: POST /api/users/register
+[2025-06-19 17:08:22] INFO: POST /api/users/login
+[2025-06-19 17:08:33] INFO: GET /api/users
+[2025-06-19 17:31:52] INFO: GET /api/users
+[2025-06-19 17:32:10] INFO: GET /api/users
+[2025-06-19 17:32:18] INFO: POST /api/users/login
+[2025-06-19 17:32:34] INFO: GET /api/users
+[2025-06-19 17:32:36] INFO: GET /api/users
+[2025-06-19 17:38:08] INFO: GET /api/users
+[2025-06-19 17:39:41] INFO: GET /api/users
+[2025-06-19 17:39:43] INFO: GET /api/users
+[2025-06-19 17:39:50] INFO: POST /api/users/login
+[2025-06-19 17:40:01] INFO: GET /api/users
+[2025-06-19 17:40:28] INFO: GET /api/users
+[2025-06-20 15:11:11] INFO: POST /users/register
+[2025-06-20 15:11:30] INFO: POST /users/register
+[2025-06-20 15:11:55] INFO: POST /api/users/verify_otp
+[2025-06-20 15:12:02] INFO: POST /users/verify_otp
+[2025-06-20 15:12:55] INFO: POST /users/login
+[2025-06-20 16:01:52] INFO: OPTIONS /user/login
+[2025-06-20 16:01:52] INFO: POST /user/login
+[2025-06-20 16:03:22] INFO: OPTIONS /user/register
+[2025-06-20 16:03:22] INFO: POST /user/register
+[2025-06-20 16:04:59] INFO: OPTIONS /users/login
+[2025-06-20 16:08:05] INFO: OPTIONS /users/login
+[2025-06-20 16:08:09] INFO: OPTIONS /users/login
+[2025-06-20 16:09:17] INFO: OPTIONS /users/login
+[2025-06-20 16:09:21] INFO: OPTIONS /users/login
+[2025-06-20 16:20:28] INFO: OPTIONS /users/login
+[2025-06-20 16:21:12] INFO: OPTIONS /users/login
+[2025-06-20 16:21:14] INFO: OPTIONS /users/login
+[2025-06-20 16:21:25] INFO: OPTIONS /users/login
+[2025-06-20 16:23:25] INFO: OPTIONS /users/login
+[2025-06-20 16:23:33] INFO: OPTIONS /users/login
+[2025-06-20 16:24:01] INFO: OPTIONS /users/login
+[2025-06-20 16:27:26] INFO: OPTIONS /users/register
+[2025-06-20 16:27:53] INFO: GET /api/users
+[2025-06-20 16:27:59] INFO: GET /users
+[2025-06-20 16:28:44] INFO: POST /users/register
+[2025-06-20 16:28:47] INFO: GET /users
+[2025-06-20 16:29:27] INFO: OPTIONS /users/register
+[2025-06-20 16:29:30] INFO: OPTIONS /users/register
+[2025-06-20 16:29:31] INFO: OPTIONS /users/register
+[2025-06-20 16:29:31] INFO: OPTIONS /users/register
+[2025-06-20 16:29:32] INFO: OPTIONS /users/register
+[2025-06-20 16:29:32] INFO: OPTIONS /users/register
+[2025-06-20 16:38:41] INFO: POST /users/register
+[2025-06-20 16:49:53] INFO: GET /users
+[2025-06-20 16:50:23] INFO: POST /users/register
+[2025-06-20 16:50:42] INFO: POST /users/verifyOTP
+[2025-06-20 17:08:53] INFO: POST /users/register
+[2025-06-20 17:09:10] INFO: POST /users/verifyOTP
+[2025-06-20 17:56:08] INFO: POST /users/login
+[2025-06-20 17:56:09] INFO: POST /users/login
+[2025-06-20 17:56:18] INFO: POST /users/login
+[2025-06-20 17:58:37] INFO: POST /users/login
+[2025-06-20 17:58:51] INFO: GET /users
+[2025-06-20 18:02:52] INFO: POST /users/register
+[2025-06-20 18:03:51] INFO: POST /users/verifyOTP
+[2025-06-20 18:04:21] INFO: POST /users/login
+[2025-06-20 18:04:45] INFO: POST /users/login
+[2025-06-20 18:04:47] INFO: POST /users/login
+[2025-06-20 18:05:17] INFO: POST /users/login
+[2025-06-20 18:05:47] INFO: POST /users/login
+[2025-06-20 18:07:31] INFO: POST /users/register
+[2025-06-20 18:08:06] INFO: POST /users/verifyOTP
+[2025-06-20 18:09:12] INFO: POST /users/verify_otp
+[2025-06-20 18:09:49] INFO: POST /users/login
+[2025-06-21 09:25:25] INFO: POST /users/register
+[2025-06-21 09:26:05] INFO: POST /users/verify_otp
+[2025-06-21 09:26:16] INFO: POST /users/login
+[2025-06-21 09:26:29] INFO: POST /users/login
+[2025-06-21 09:27:31] INFO: POST /users/login
+[2025-06-21 09:44:22] INFO: POST /users/logout
+[2025-06-21 09:44:24] INFO: POST /users/login
+[2025-06-21 09:44:27] INFO: POST /users/logout
+[2025-06-21 09:44:29] INFO: POST /users/login
+[2025-06-21 09:45:20] INFO: POST /users/logout
+[2025-06-21 09:45:21] INFO: POST /users/login
+[2025-06-21 10:06:22] INFO: POST /users/logout
+[2025-06-21 10:06:26] INFO: POST /users/logout
+[2025-06-21 10:06:30] INFO: POST /users/logout
+[2025-06-21 10:07:16] INFO: POST /users/logout
+[2025-06-21 10:07:54] INFO: POST /users/logout
+[2025-06-21 10:08:01] INFO: POST /users/logout
+[2025-06-21 10:13:50] INFO: POST /users/register
+[2025-06-21 10:14:03] INFO: POST /users/verify_otp
+[2025-06-21 10:14:56] INFO: POST /users/login
+[2025-06-21 10:15:32] INFO: POST /users/login
+[2025-06-21 10:16:34] INFO: POST /users/login
+[2025-06-21 10:16:53] INFO: POST /users/login
+[2025-06-21 10:17:14] INFO: POST /users/login
+[2025-06-21 10:22:47] INFO: POST /users/login
+[2025-06-21 10:22:54] INFO: POST /users/login
+[2025-06-21 10:25:45] INFO: GET /users
+[2025-06-21 10:26:19] INFO: POST /users/register
+[2025-06-21 10:26:33] INFO: POST /users/verify_otp
+[2025-06-21 10:26:57] INFO: POST /users/login
+[2025-06-21 10:27:39] INFO: POST /users/logout
+[2025-06-21 10:37:10] INFO: POST /users/register
+[2025-06-21 10:40:11] INFO: POST /users/verify_otp
+[2025-06-21 10:40:44] INFO: POST /users/login
+[2025-06-21 11:12:59] INFO: GET /users
+[2025-06-21 11:13:22] INFO: POST /users/login
+[2025-06-21 11:13:30] INFO: POST /users/logout
+[2025-06-21 11:58:53] INFO: POST /users/send_otp
+[2025-06-21 11:59:07] INFO: POST /users/verify_otp
+[2025-06-21 11:59:13] INFO: POST /users/logout
+[2025-06-21 11:59:32] INFO: POST /users/send_otp
+[2025-06-21 12:00:38] INFO: POST /users/send_otp
+[2025-06-21 12:00:46] INFO: POST /users/verify_otp
+[2025-06-21 12:01:38] INFO: POST /users/logout
+[2025-06-21 12:01:54] INFO: POST /users/send_otp
+[2025-06-21 12:03:01] INFO: POST /users/verify_otp
+[2025-06-21 12:03:40] INFO: POST /users/logout
+[2025-06-21 12:03:48] INFO: POST /users/send_otp
+[2025-06-21 12:04:28] INFO: POST /users/verify_otp
+[2025-06-21 12:04:31] INFO: POST /users/logout
+[2025-06-21 12:13:44] INFO: POST /users/send_otp
+[2025-06-21 12:17:43] INFO: POST /users/send_otp
+[2025-06-21 12:18:02] INFO: POST /users/verify_otp
+[2025-06-21 12:18:11] INFO: POST /users/logout
+[2025-06-21 12:18:20] INFO: POST /users/send_otp
+[2025-06-21 12:18:31] INFO: POST /users/verify_otp
+[2025-06-21 12:43:07] INFO: POST /users/send_otp
+[2025-06-21 12:45:10] INFO: POST /users/send_otp
+[2025-06-21 12:45:52] INFO: POST /users/send_otp
+[2025-06-21 12:47:24] INFO: POST /users/send_otp
+[2025-06-21 12:47:37] INFO: POST /users/verify_otp
+[2025-06-21 12:51:27] INFO: POST /users/send_otp
+[2025-06-21 12:51:39] INFO: POST /users/verify_otp
+[2025-06-21 12:52:39] INFO: POST /users/send_otp
+[2025-06-21 12:52:59] INFO: POST /users/verify_otp
+[2025-06-21 12:55:55] INFO: POST /users/send_otp
+[2025-06-21 12:56:07] INFO: POST /users/verify_otp
+[2025-06-21 12:56:55] INFO: POST /users/send_otp
+[2025-06-21 12:57:08] INFO: POST /users/verify_otp
+[2025-06-21 13:18:26] INFO: POST /users/send_otp
+[2025-06-21 13:18:42] INFO: POST /users/verify_otp
+[2025-06-21 14:11:33] INFO: POST /users/send_otp
+[2025-06-21 14:11:45] INFO: POST /users/verify_otp
+[2025-06-21 14:13:59] INFO: POST /users/send_otp
+[2025-06-21 14:14:13] INFO: POST /users/verify_otp
+[2025-06-21 14:18:05] INFO: GET /api/products
+[2025-06-21 14:18:29] INFO: GET /products
+[2025-06-21 14:18:32] INFO: GET /products
+[2025-06-21 14:19:01] INFO: GET /products
+[2025-06-21 14:22:25] INFO: POST /products
+[2025-06-21 14:22:42] INFO: POST /users/logout
+[2025-06-21 14:22:51] INFO: POST /users/send_otp
+[2025-06-21 14:23:00] INFO: POST /users/verify_otp
+[2025-06-21 14:24:17] INFO: POST /users/send_otp
+[2025-06-21 14:24:25] INFO: POST /users/verify_otp
+[2025-06-21 14:24:41] INFO: POST /users/logout
+[2025-06-21 14:25:06] INFO: POST /users/generate_otp
+[2025-06-21 14:25:57] INFO: POST /users/login
+[2025-06-21 14:28:55] INFO: POST /users/generate_otp
+[2025-06-21 14:29:12] INFO: POST /users/send_otp
+[2025-06-21 14:29:24] INFO: POST /users/verify_otp
+[2025-06-21 14:29:42] INFO: POST /users/verify_otp
+[2025-06-21 14:30:46] INFO: POST /users/verify_otp
+[2025-06-21 14:30:51] INFO: POST /users/send_otp
+[2025-06-21 14:31:01] INFO: POST /users/verify_otp
+[2025-06-21 14:32:22] INFO: POST /products
+[2025-06-21 14:32:22] INFO: New Product Created Phones
+[2025-06-21 14:35:23] INFO: POST /users/send_otp
+[2025-06-21 14:35:29] INFO: POST /users/verify_otp
+[2025-06-21 15:47:41] INFO: POST /users/send_otp
+[2025-06-21 15:56:21] INFO: POST /users/send_otp
+[2025-06-21 15:56:30] INFO: POST /users/verify_otp
+[2025-06-21 15:57:43] INFO: POST /users/send_otp
+[2025-06-21 15:57:51] INFO: POST /users/verify_otp
+[2025-06-21 15:58:39] INFO: POST /users/send_otp
+[2025-06-21 15:58:47] INFO: POST /users/verify_otp
+[2025-06-21 15:59:06] INFO: GET /products
+[2025-06-21 15:59:47] INFO: POST /products
+[2025-06-21 15:59:47] INFO: New Product Created Phones
+[2025-06-21 15:59:58] INFO: GET /products
+[2025-06-21 16:01:50] INFO: GET /products
+[2025-06-21 16:02:30] INFO: POST /products
+[2025-06-21 16:02:30] INFO: New Product Created Shoes
+[2025-06-21 16:02:36] INFO: GET /products
+[2025-06-21 16:05:47] INFO: GET /products
+[2025-06-21 16:06:34] INFO: POST /users/send_otp
+[2025-06-21 16:06:43] INFO: POST /users/verify_otp
+[2025-06-21 16:06:45] INFO: GET /products
+[2025-06-21 16:07:51] INFO: GET /products
+[2025-06-21 16:13:41] INFO: POST /users/send_otp
+[2025-06-21 16:13:53] INFO: POST /users/verify_otp
+[2025-06-21 16:13:55] INFO: GET /products
+[2025-06-21 16:15:15] INFO: GET /products
+[2025-06-21 16:16:27] INFO: POST /products
+[2025-06-21 16:16:27] INFO: New Product Created Kajal
+[2025-06-21 16:16:27] INFO: GET /products
+[2025-06-21 16:21:17] INFO: POST /products
+[2025-06-21 16:21:17] INFO: New Product Created Hello
+[2025-06-21 16:21:17] INFO: GET /products
+[2025-06-21 16:21:35] INFO: POST /products
+[2025-06-21 16:21:35] INFO: GET /products
+[2025-06-21 16:21:36] INFO: POST /products
+[2025-06-21 16:21:37] INFO: GET /products
+[2025-06-21 16:22:06] INFO: POST /products
+[2025-06-21 16:22:06] INFO: GET /products
+[2025-06-21 16:26:21] INFO: GET /products
+[2025-06-21 16:36:32] INFO: GET /products
+[2025-06-21 16:36:50] INFO: POST /products
+[2025-06-21 16:39:38] INFO: POST /products
+[2025-06-21 16:39:40] INFO: POST /products
+[2025-06-21 16:40:15] INFO: POST /products
+[2025-06-21 16:40:35] INFO: POST /products
+[2025-06-21 16:40:45] INFO: POST /users/login
+[2025-06-21 16:41:26] INFO: POST /users/login
+[2025-06-21 16:41:32] INFO: POST /users/send_otp
+[2025-06-21 16:41:42] INFO: POST /users/verify_otp
+[2025-06-21 16:42:14] INFO: POST /products
+[2025-06-21 16:42:16] INFO: POST /products
+[2025-06-21 16:42:20] INFO: POST /products
+[2025-06-21 16:42:23] INFO: POST /products
+[2025-06-21 16:42:38] INFO: POST /products
+[2025-06-21 17:24:05] INFO: POST /products
+[2025-06-21 17:43:14] INFO: POST /products
+[2025-06-21 17:46:49] INFO: POST /products
+[2025-06-21 17:47:18] INFO: POST /products
+[2025-06-21 17:47:20] INFO: POST /products
+[2025-06-21 17:51:11] INFO: POST /products
+[2025-06-21 17:51:11] INFO: New Product Created Shoes
+[2025-06-21 18:05:49] INFO: POST /products
+[2025-06-21 18:06:19] INFO: POST /products
+[2025-06-21 18:09:13] INFO: POST /products
+[2025-06-21 18:09:44] INFO: POST /products
+[2025-06-21 18:09:46] INFO: POST /products
+[2025-06-21 18:10:26] INFO: POST /products
+[2025-06-21 18:10:57] INFO: POST /products
+[2025-06-21 18:12:10] INFO: POST /products
+[2025-06-21 18:12:17] INFO: GET /products
+[2025-06-21 18:12:25] INFO: POST /users/send_otp
+[2025-06-21 18:12:32] INFO: GET /users
+[2025-06-21 18:12:48] INFO: GET /users
+[2025-06-21 18:12:53] INFO: POST /users/send_otp
+[2025-06-21 18:14:43] INFO: POST /users/create_user
+[2025-06-21 18:15:43] INFO: POST /users/create_user
+[2025-06-21 18:16:04] INFO: POST /users/create_user
+[2025-06-21 18:16:10] INFO: GET /users
+[2025-06-21 18:16:29] INFO: POST /products
+[2025-06-21 18:16:40] INFO: POST /users/send_otp
+[2025-06-21 18:16:58] INFO: POST /users/verify_otp
+[2025-06-21 18:17:24] INFO: POST /products
+[2025-06-21 18:17:26] INFO: POST /products
+[2025-06-21 18:17:30] INFO: GET /products
+[2025-06-21 18:18:05] INFO: POST /products
+[2025-06-21 18:18:06] INFO: POST /products
+[2025-06-21 18:18:23] INFO: POST /products
+[2025-06-21 18:18:36] INFO: POST /products
+[2025-06-21 18:20:41] INFO: POST /products
+[2025-06-21 18:21:17] INFO: POST /products
+[2025-06-21 18:21:27] INFO: POST /products
+[2025-06-21 18:22:07] INFO: POST /products
+[2025-06-21 18:22:40] INFO: POST /products
+[2025-06-21 18:23:01] INFO: POST /products
+[2025-06-21 18:23:23] INFO: POST /products
+[2025-06-21 18:24:13] INFO: POST /products
+[2025-06-21 18:25:12] INFO: POST /products
+[2025-06-21 18:25:12] INFO: New Product Created Shoes
+[2025-06-21 18:26:30] INFO: POST /products
+[2025-06-21 18:26:30] INFO: New Product Created Shoes
+[2025-06-23 11:06:18] INFO: POST /products
+[2025-06-23 11:06:40] INFO: POST /users/create_user
+[2025-06-23 11:06:42] INFO: POST /users/create_user
+[2025-06-23 11:06:47] INFO: POST /users/create_user
+[2025-06-23 11:07:21] INFO: POST /users/create_user
+[2025-06-23 11:07:29] INFO: POST /users/generate_otp
+[2025-06-23 11:07:44] INFO: POST /users/send_otp
+[2025-06-23 11:08:04] INFO: POST /users/verify_otp
+[2025-06-23 11:08:22] INFO: POST /users/verify_otp
+[2025-06-23 11:08:32] INFO: POST /users/send_otp
+[2025-06-23 11:08:41] INFO: POST /users/verify_otp
+[2025-06-23 11:10:09] INFO: POST /users/send_otp
+[2025-06-23 11:10:32] INFO: POST /users/verify_otp
+[2025-06-23 11:11:53] INFO: POST /users/verify_otp
+[2025-06-23 11:11:55] INFO: POST /users/verify_otp
+[2025-06-23 11:12:00] INFO: POST /users/verify_otp
+[2025-06-23 11:12:58] INFO: POST /products
+[2025-06-23 11:12:58] INFO: New Product Created Phones
+[2025-06-23 11:15:53] INFO: POST /products
+[2025-06-23 11:15:54] INFO: New Product Created Phones
+[2025-06-23 11:15:55] INFO: POST /products
+[2025-06-23 11:15:55] INFO: New Product Created Phones
+[2025-06-23 11:16:53] INFO: POST /products
+[2025-06-23 11:16:53] INFO: New Product Created Phones
+[2025-06-23 11:17:25] INFO: POST /products
+[2025-06-23 11:17:48] INFO: POST /products
+[2025-06-23 11:17:48] INFO: New Product Created Phones
+[2025-06-23 11:17:59] INFO: GET /users
+[2025-06-23 11:18:09] INFO: GET /users
+[2025-06-23 11:18:13] INFO: POST /products
+[2025-06-23 11:18:13] INFO: New Product Created Phones
+[2025-06-23 11:18:14] INFO: POST /products
+[2025-06-23 11:18:15] INFO: New Product Created Phones
+[2025-06-23 11:20:26] INFO: POST /products
+[2025-06-23 11:20:26] INFO: New Product Created: Phones
+[2025-06-23 11:20:31] INFO: GET /products
+[2025-06-23 11:20:53] INFO: POST /users/send_otp
+[2025-06-23 11:21:07] INFO: POST /users/verify_otp
+[2025-06-23 11:21:08] INFO: GET /products
+[2025-06-23 11:21:32] INFO: POST /products
+[2025-06-23 11:21:32] INFO: New Product Created: Shoes
+[2025-06-23 11:21:32] INFO: GET /products
+[2025-06-23 11:23:57] INFO: DELETE /api/products/1
+[2025-06-23 11:24:05] INFO: DELETE /products/1
+[2025-06-23 11:24:51] INFO: DELETE /products/1
+[2025-06-23 11:24:52] INFO: DELETE /products/1
+[2025-06-23 11:25:09] INFO: DELETE /products/1
+[2025-06-23 11:25:11] INFO: DELETE /products/1
+[2025-06-23 11:25:15] INFO: POST /users/send_otp
+[2025-06-23 11:25:24] INFO: POST /users/verify_otp
+[2025-06-23 11:25:37] INFO: DELETE /products/1
+[2025-06-23 11:25:39] INFO: DELETE /products/1
+[2025-06-23 11:25:50] INFO: DELETE /products/1
+[2025-06-23 11:25:51] INFO: DELETE /products/1
+[2025-06-23 11:26:06] INFO: DELETE /products/1
+[2025-06-23 11:26:14] INFO: DELETE /products/1?id=1
+[2025-06-23 11:26:20] INFO: DELETE /products?id=1
+[2025-06-23 11:26:46] INFO: DELETE /products?id=1
+[2025-06-23 11:26:53] INFO: DELETE /products/1
+[2025-06-23 11:27:10] INFO: DELETE /products/1
+[2025-06-23 11:27:44] INFO: DELETE /products/1
+[2025-06-23 11:28:14] INFO: GET /products
+[2025-06-23 11:28:19] INFO: GET /api/products/1
+[2025-06-23 11:28:28] INFO: GET /products/1
+[2025-06-23 11:28:30] INFO: GET /products/1
+[2025-06-23 11:28:55] INFO: GET /products/1
+[2025-06-23 11:29:19] INFO: PUT /api/products/update
+[2025-06-23 11:29:24] INFO: GET /products/1
+[2025-06-23 11:29:28] INFO: DELETE /products/1
+[2025-06-23 11:34:03] INFO: POST /users/send_otp
+[2025-06-23 11:34:15] INFO: POST /users/verify_otp
+[2025-06-23 11:34:17] INFO: GET /products
+[2025-06-23 11:34:20] INFO: DELETE /products/2
+[2025-06-23 11:34:20] INFO: GET /products
+[2025-06-23 11:34:21] INFO: DELETE /products/3
+[2025-06-23 11:34:21] INFO: GET /products
+[2025-06-23 11:34:21] INFO: DELETE /products/4
+[2025-06-23 11:34:21] INFO: GET /products
+[2025-06-23 11:34:22] INFO: DELETE /products/5
+[2025-06-23 11:34:22] INFO: GET /products
+[2025-06-23 11:34:22] INFO: DELETE /products/6
+[2025-06-23 11:34:22] INFO: GET /products
+[2025-06-23 11:34:23] INFO: DELETE /products/7
+[2025-06-23 11:34:23] INFO: GET /products
+[2025-06-23 11:37:23] INFO: GET /products
+[2025-06-23 11:38:29] INFO: POST /users/send_otp
+[2025-06-23 11:38:48] INFO: POST /users/verify_otp
+[2025-06-23 11:38:50] INFO: GET /products
+[2025-06-23 11:54:45] INFO: POST /users/send_otp
+[2025-06-23 11:54:55] INFO: POST /users/verify_otp
+[2025-06-23 11:54:57] INFO: GET /products
+[2025-06-23 11:58:45] INFO: GET /products
+[2025-06-23 12:00:10] INFO: GET /products
+[2025-06-23 12:04:47] INFO: POST /api/coupon/create_coupon
+[2025-06-23 12:04:58] INFO: POST /coupon/create_coupon
+[2025-06-23 12:05:22] INFO: POST /coupon/create_coupon
+[2025-06-23 12:05:22] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-23 12:06:59] INFO: GET /api/coupon/coupons
+[2025-06-23 12:07:06] INFO: GET /coupon/coupons
+[2025-06-23 12:10:42] INFO: GET /coupon
+[2025-06-23 12:10:47] INFO: GET /coupon/coupons
+[2025-06-23 12:12:19] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 12:18:06] INFO: POST /users/send_otp
+[2025-06-23 12:18:20] INFO: POST /users/verify_otp
+[2025-06-23 12:18:25] INFO: GET /products
+[2025-06-23 12:20:39] INFO: POST /users/send_otp
+[2025-06-23 12:20:56] INFO: POST /users/verify_otp
+[2025-06-23 12:20:58] INFO: GET /products
+[2025-06-23 12:23:19] INFO: POST /users/send_otp
+[2025-06-23 12:23:35] INFO: POST /users/verify_otp
+[2025-06-23 12:23:37] INFO: GET /products
+[2025-06-23 12:28:03] INFO: POST /users/send_otp
+[2025-06-23 12:28:26] INFO: POST /users/verify_otp
+[2025-06-23 12:30:25] INFO: GET /products
+[2025-06-23 12:31:19] INFO: POST /products
+[2025-06-23 12:31:19] INFO: New Product Created: Laptop
+[2025-06-23 12:31:19] INFO: GET /products
+[2025-06-23 12:32:56] INFO: DELETE /products/8
+[2025-06-23 12:32:56] INFO: GET /products
+[2025-06-23 12:35:07] INFO: POST /users/send_otp
+[2025-06-23 12:35:19] INFO: POST /users/verify_otp
+[2025-06-23 12:35:22] INFO: GET /products
+[2025-06-23 12:37:14] INFO: GET /products
+[2025-06-23 12:38:57] INFO: GET /products
+[2025-06-23 12:42:55] INFO: POST /users/send_otp
+[2025-06-23 12:43:08] INFO: POST /users/verify_otp
+[2025-06-23 12:43:10] INFO: GET /products
+[2025-06-23 12:44:21] INFO: POST /users/send_otp
+[2025-06-23 12:45:04] INFO: POST /users/verify_otp
+[2025-06-23 12:45:06] INFO: GET /products
+[2025-06-23 12:49:27] INFO: POST /users/send_otp
+[2025-06-23 12:49:45] INFO: POST /users/verify_otp
+[2025-06-23 12:49:47] INFO: GET /products
+[2025-06-23 12:49:49] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 12:53:13] INFO: GET /products
+[2025-06-23 12:53:45] INFO: POST /coupon/create_coupon
+[2025-06-23 12:57:25] INFO: POST /coupon/create_coupon
+[2025-06-23 12:57:25] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-23 13:04:57] INFO: DELETE /coupon/delete_coupon_history/1
+[2025-06-23 13:05:35] INFO: DELETE /coupon/delete_coupon_history/1
+[2025-06-23 13:06:41] INFO: DELETE /coupon/delete_coupon_history/1
+[2025-06-23 13:07:50] INFO: DELETE /coupon/delete_coupon_history/1
+[2025-06-23 13:07:59] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 13:08:05] INFO: GET /coupon/coupons
+[2025-06-23 13:08:31] INFO: GET /products
+[2025-06-23 13:08:43] INFO: POST /coupon/create_coupon
+[2025-06-23 13:08:43] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-23 13:08:49] INFO: POST /coupon/create_coupon
+[2025-06-23 13:08:49] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-23 13:08:53] INFO: GET /coupon/coupons
+[2025-06-23 13:08:58] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 13:10:11] INFO: POST /users/send_otp
+[2025-06-23 13:10:23] INFO: POST /users/verify_otp
+[2025-06-23 13:10:25] INFO: GET /products
+[2025-06-23 13:10:26] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 13:10:29] INFO: DELETE /coupon/delete_coupon_history/4
+[2025-06-23 13:10:29] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:03:42] INFO: POST /users/send_otp
+[2025-06-23 14:04:56] INFO: POST /users/verify_otp
+[2025-06-23 14:04:57] INFO: GET /products
+[2025-06-23 14:10:32] INFO: POST /users/send_otp
+[2025-06-23 14:10:44] INFO: POST /users/verify_otp
+[2025-06-23 14:10:47] INFO: GET /products
+[2025-06-23 14:10:48] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:12:10] INFO: GET /products
+[2025-06-23 14:14:22] INFO: POST /users/send_otp
+[2025-06-23 14:14:37] INFO: POST /users/verify_otp
+[2025-06-23 14:14:39] INFO: GET /products
+[2025-06-23 14:15:31] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:18:13] INFO: DELETE /coupon/delete_coupon_history/2
+[2025-06-23 14:18:13] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:18:14] INFO: DELETE /coupon/delete_coupon_history/3
+[2025-06-23 14:18:14] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:20:54] INFO: POST /coupon/create_coupon
+[2025-06-23 14:20:54] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:21:06] INFO: POST /coupon/create_coupon
+[2025-06-23 14:21:07] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:22:12] INFO: POST /coupon/create_coupon
+[2025-06-23 14:22:12] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:24:06] INFO: POST /users/send_otp
+[2025-06-23 14:24:18] INFO: POST /users/verify_otp
+[2025-06-23 14:24:19] INFO: GET /products
+[2025-06-23 14:24:20] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:24:33] INFO: POST /coupon/create_coupon
+[2025-06-23 14:24:33] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:24:40] INFO: POST /coupon/create_coupon
+[2025-06-23 14:24:40] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:27:33] INFO: POST /products
+[2025-06-23 14:27:41] INFO: POST /products
+[2025-06-23 14:27:43] INFO: POST /products
+[2025-06-23 14:28:13] INFO: POST /products
+[2025-06-23 14:28:16] INFO: POST /products
+[2025-06-23 14:28:18] INFO: POST /products
+[2025-06-23 14:29:56] INFO: GET /products
+[2025-06-23 14:34:21] INFO: POST /coupon/create_coupon
+[2025-06-23 14:34:21] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:34:39] INFO: GET /users
+[2025-06-23 14:34:44] INFO: POST /users/send_otp
+[2025-06-23 14:35:05] INFO: POST /users/verify_otp
+[2025-06-23 14:35:36] INFO: POST /coupon/create_coupon
+[2025-06-23 14:35:55] INFO: POST /coupon/create_coupon
+[2025-06-23 14:35:57] INFO: POST /coupon/create_coupon
+[2025-06-23 14:35:59] INFO: POST /coupon/create_coupon
+[2025-06-23 14:36:10] INFO: POST /coupon/create_coupon
+[2025-06-23 14:37:45] INFO: POST /coupon/create_coupon
+[2025-06-23 14:39:42] INFO: POST /coupon/create_coupon
+[2025-06-23 14:39:43] INFO: POST /coupon/create_coupon
+[2025-06-23 14:39:57] INFO: POST /coupon/create_coupon
+[2025-06-23 14:39:59] INFO: POST /coupon/create_coupon
+[2025-06-23 14:40:09] INFO: POST /coupon/create_coupon
+[2025-06-23 14:40:34] INFO: POST /coupon/create_coupon
+[2025-06-23 14:40:36] INFO: POST /coupon/create_coupon
+[2025-06-23 14:40:48] INFO: POST /coupon/create_coupon
+[2025-06-23 14:40:59] INFO: GET /products
+[2025-06-23 14:41:05] INFO: POST /coupon/create_coupon
+[2025-06-23 14:41:29] INFO: POST /coupon/create_coupon
+[2025-06-23 14:41:30] INFO: 1 Coupons are generated of product Smartphone
+[2025-06-23 14:41:41] INFO: POST /coupon/create_coupon
+[2025-06-23 14:41:52] INFO: POST /coupon/create_coupon
+[2025-06-23 14:41:52] INFO: 4 Coupons are generated of product Smartphone
+[2025-06-23 14:42:23] INFO: POST /coupon/create_coupon
+[2025-06-23 14:42:23] INFO: 40 Coupons are generated of product Smartphone
+[2025-06-23 14:45:57] INFO: POST /coupon/create_coupon
+[2025-06-23 14:45:57] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:47:13] INFO: POST /coupon/create_coupon
+[2025-06-23 14:47:13] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:49:24] INFO: POST /coupon/create_coupon
+[2025-06-23 14:49:24] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:51:07] INFO: POST /coupon/create_coupon
+[2025-06-23 14:51:07] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:52:47] INFO: POST /coupon/create_coupon
+[2025-06-23 14:52:47] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:53:59] INFO: POST /coupon/create_coupon
+[2025-06-23 14:53:59] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:55:36] INFO: POST /coupon/create_coupon
+[2025-06-23 14:55:36] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:55:40] INFO: DELETE /coupon/delete_coupon_history/5
+[2025-06-23 14:55:40] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:57:01] INFO: POST /users/send_otp
+[2025-06-23 14:57:11] INFO: POST /users/verify_otp
+[2025-06-23 14:57:13] INFO: GET /products
+[2025-06-23 14:57:14] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 14:57:34] INFO: POST /coupon/create_coupon
+[2025-06-23 14:57:35] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 15:00:20] INFO: POST /coupon/create_coupon
+[2025-06-23 15:00:20] INFO: 40 Coupons are generated of product Smartphone
+[2025-06-23 15:01:09] INFO: POST /coupon/create_coupon
+[2025-06-23 15:01:09] INFO: GET /coupon/coupons_with_quantity
+[2025-06-23 15:03:42] INFO: POST /coupon/create_coupon
+[2025-06-23 15:03:42] INFO: 10 Coupons are generated of product Shoes
+[2025-06-23 15:03:42] INFO: GET /coupon/coupons_with_quantity

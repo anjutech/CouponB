@@ -1,0 +1,121 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  user_id    Int    @id @default(autoincrement())
+  name  String    @db.VarChar(50)
+  email String @unique @db.VarChar(50) 
+  mobile String  @unique @db.VarChar(15)
+    del       Boolean   @default(false)
+}
+
+model Product {
+  product_id        Int       @id @default(autoincrement())
+  created_by Int?
+  created_by_username String? @db.VarChar(50)
+  product_name  String       @db.VarChar(50)
+  points    Decimal   @db.Decimal(10, 2)
+  del       Boolean   @default(false)
+  remarks   String    @db.VarChar(500)
+  date_created_At DateTime  @default(now())
+}
+
+model coupon {
+  coupon_id         Int       @id @default(autoincrement())
+  created_by Int
+  created_by_username String @db.VarChar(50)
+  product_id      Int        
+  product_name  String    @db.VarChar(50)
+  CodeId     String    @unique @db.VarChar(10)
+  couponCode String    @unique @db.VarChar(10)
+  couponUrl  String            @db.VarChar(100)
+  coupon_history_id Int 
+  del         Boolean  @default(false)
+  remarks     String     @db.VarChar(500)
+ date_created_At DateTime  @default(now())
+  // Relation
+  couponHistory       Coupon_History  @relation(fields: [coupon_history_id], references: [coupon_history_id])
+}
+model Coupon_History {
+    coupon_history_id Int @id @default(autoincrement())
+    created_by Int
+    created_by_username String @db.VarChar(50)
+    product_id      Int
+    product_name  String @db.VarChar(50)
+    quantity      Int
+    del           Boolean  @default(false)
+    remarks        String @db.VarChar(500)
+    date_created_At DateTime  @default(now())
+    // Back relation
+  coupons              coupon[]
+}
+model coupon_scanned_history {
+  scan_coupon_id  Int @id @default(autoincrement())
+  scannedBy_id Int
+  product_id      Int
+  product_name  String @db.VarChar(50)
+  coupon_history_id  Int
+  mobile String @unique @db.VarChar(10)
+  CodeId     String    @unique @db.VarChar(10)
+  couponCode String    @unique @db.VarChar(10)
+  couponUrl  String    @db.VarChar(100)
+  paymentType       String   @db.VarChar(10)
+  accountHolder     String?  @db.VarChar(100)
+  accountNumber     String?  @db.VarChar(20)
+  ifscCode          String?  @db.VarChar(15)
+  bankName          String?  @db.VarChar(100)
+  upiID             String?  @db.VarChar(50)
+  upiProvider       String?  @db.VarChar(50)
+  del           Boolean  @default(false)
+
+  date_created_At DateTime  @default(now())
+
+   // Relation to scanned_by
+  scannedBy scanned_by @relation(fields: [scannedBy_id], references: [scannedBy_id])
+}
+
+model scanned_by{
+  scannedBy_id Int  @id @default(autoincrement())
+  influencer_customer_name String @db.VarChar(50)
+  scanned_By_name String @db.VarChar(50)
+  mobile String @unique @db.VarChar(10)
+ paymentType       String   @db.VarChar(10)
+  accountHolder     String?  @db.VarChar(100)
+  accountNumber     String?  @db.VarChar(20)
+  ifscCode          String?  @db.VarChar(15)
+  bankName          String?  @db.VarChar(100)
+  upiID             String?  @db.VarChar(50)
+  upiProvider       String?  @db.VarChar(50)
+   del           Boolean  @default(false)
+
+  date_created_At DateTime  @default(now())
+// relation
+ couponScannedHistory coupon_scanned_history[]
+} 
+enum PaymentType {
+  BANK
+  UPI
+}
+model payments{
+  id            Int      @id @default(autoincrement())
+   paymentType       String   @db.VarChar(10)
+  accountHolder     String?  @db.VarChar(100)
+  accountNumber     String?  @db.VarChar(20)
+  ifscCode          String?  @db.VarChar(15)
+  bankName          String?  @db.VarChar(100)
+  upiID             String?  @db.VarChar(50)
+  upiProvider       String?  @db.VarChar(50)
+  couponCode    String? @db.VarChar(10)
+  del           Boolean  @default(false)
+
+  createdAt     DateTime @default(now())
+}
+
+
+ 
